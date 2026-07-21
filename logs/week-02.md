@@ -4,7 +4,7 @@
 
 ## Goals
 
-Continue working on my master document of my new architecture for invite
+Continue working on my master document of my new architecture for INVITE
 
 ## Approach and Implementation
 
