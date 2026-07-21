@@ -4,7 +4,7 @@
 
 ## Goals
 
-Meet the INVTE team and learn about subproject 3 
+Meet the INVITE team and learn about subproject 3 
 
 ## Approach and Implementation
 
