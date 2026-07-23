@@ -1,6 +1,6 @@
 # Week 6
 
-**Dates:** MM-DD to MM-DD
+**Dates:** 07/06/2026 to 07/10/2026
 
 ## Goals
 
